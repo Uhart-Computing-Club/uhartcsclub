@@ -288,7 +288,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/microchip-bg.jpg);
+/*    Image taken from: https://wallpaperscraft.com/image/chip_computer_microchip_processor_5659_1920x1080.jpg*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
